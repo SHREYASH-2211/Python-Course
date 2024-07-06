@@ -7,3 +7,5 @@ for x in range(6):
 
 marks.sort()
 print(marks)
+int1=int(input("Enter the number to count"))
+print(marks.count(int1))
