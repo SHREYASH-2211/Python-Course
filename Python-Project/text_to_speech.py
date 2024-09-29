@@ -9,5 +9,5 @@ def text_to_speech(text, lang='en'):
     # os.system("mpg321 output.mp3")  # For Linux, use "mpg321"
 
 if __name__ == "__main__":
-    text = "Hello World"
+    text = "Hello Mahir"
     text_to_speech(text)
